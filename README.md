@@ -21,7 +21,7 @@ The University Success Analysis project delves into the intricate landscape of h
 ![image](https://github.com/Manav-Mishra-DA/University-Success-Analysis/blob/main/Assets/Demography%20Analysis.png)
 
 ### University Analysis
-![image](https://github.com/Manav-Mishra-DA/University-Success-Analysis/blob/main/Assets/University%20Analysis.png)
+![image](
 
 ### Ranking Analysis
 ![image](https://github.com/Manav-Mishra-DA/University-Success-Analysis/blob/main/Assets/Ranking%20Analysis.png)
